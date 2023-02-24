@@ -1,0 +1,21 @@
+{
+  "name": "inqom-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicodmar/Inqom-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicodmar/Inqom-test/issues"
+  },
+  "homepage": "https://github.com/nicodmar/Inqom-test#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.31.1"
+  }
+}
